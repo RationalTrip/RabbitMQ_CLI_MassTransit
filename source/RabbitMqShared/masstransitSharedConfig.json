@@ -1,0 +1,17 @@
+{
+  "Transit": {
+    "connection": {
+      "login": "guest",
+      "password": "guest",
+
+      "host": "localhost",
+      "port": 5672,
+
+      "virtualHost": "MassTransit_CLI_communication_virtual_host"
+    },
+
+    "messaging": {
+      "modifyRequestEndpoint": "MessageRequestConnectionCLI"
+    }
+  }
+}

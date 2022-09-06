@@ -1,0 +1,7 @@
+{
+  "Transit": {
+    "messaging": {
+      "receiveEndpoint": "ModificationMessageConsumerConnectionCLI"
+    }
+  }
+}
